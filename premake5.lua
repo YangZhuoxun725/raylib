@@ -9,7 +9,7 @@ project "raylib"
     "src/raylib.h",
     "src/rcamera.h",
     "src/raymath.h",
-    "src/rlgl.h"
+    "src/rlgl.h",
     "src/rgestures.h",
     "src/rlights.h",
 
